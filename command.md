@@ -22,3 +22,4 @@ git commit -m "0510"
 git push -u origin
 ```
 
+git 密码 见 gitkey文件
