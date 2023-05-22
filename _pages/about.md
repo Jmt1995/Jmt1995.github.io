@@ -36,6 +36,19 @@ My research interests include big data analytics and distributed machine learnin
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src="https://img.shields.io/badge/IEEE%20ACM%20IWQoS%20Poster-CCF--B-green"><img src='files/IWQOSPOSTER2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Adaptive Provisioning In-band Network Telemetry at Computing Power Network \[invited\]](/files/IWQOSPOSTER2023.pdf)
+
+**Mingtao Ji**, Chenwei Su, Yuting Yan, Zhuzhong Qian, Sheng Zhang, Yu Chen, Tuo Cao, Xiaohang Shi, Luis Vasquez, Baoliu Ye.
+
+<!-- [**Project**](https://scholar.google.com) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We jointly complete the project. --> 
+</div></div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><img src="https://img.shields.io/badge/IEEE%20ICC-CCF--C-green"><img src='files/ICC_BGD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -44,11 +57,8 @@ My research interests include big data analytics and distributed machine learnin
 **Mingtao Ji**, Chenwei Su, Yuting Yan, Zhuzhong Qian, Yu Chen, Yibo Jin, Sheng Zhang, Baoliu Ye.
 
 <!-- [**Project**](https://scholar.google.com) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We jointly complete the project. -->
-
-   
-</div>
-</div>
+- We jointly complete the project. --> 
+</div></div>
 <!-- <img alt="Custom badge" src="https://img.shields.io/endpoint"> -->
 <!-- <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/badge/CCF--C-IEEE%20ISPA-yellow"></a> -->
 
@@ -58,7 +68,7 @@ My research interests include big data analytics and distributed machine learnin
 
 
 
-- <img src="https://img.shields.io/badge/BigCom-EI-green"> [SAC: Dynamic Caching upon Sketch for In-Memory Big Data Analytics](XXX), **Mingtao Ji**, Mingxian Zhou, Haodong Zou, Ming Tang, Zhuzhong Qian, Xiaoliang Wang, BigCom 2023.
+- <img src="https://img.shields.io/badge/BigCom-EI-green"> [SAC: Dynamic Caching upon Sketch for In-Memory Big Data Analytics](XXX), **Mingtao Ji**, Mingxian Zhou, Haodong Zou, Ming Tang, Zhuzhong Qian, Xiaoliang Wang, BigCom 2023. (19/74)
 
 - <img src="https://img.shields.io/badge/IEEE%20TON-CCF--A-green"> [Scheduling In-Band Network Telemetry with Convergence-Preserving Federated Learning](https://ieeexplore.ieee.org/document/10070386), Yibo Jin, Lei Jiao, **Mingtao Ji**, Zhuzhong Qian, Sheng Zhang, Ning Chen, Sanglu Lu, IEEE/ACM TON 2023.
 
