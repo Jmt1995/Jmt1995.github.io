@@ -19,7 +19,7 @@ redirect_from:
 
 I received the B.E. degree from the College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautic in 2018. 
 I am currently pursuing the PhD degree under the supervision of Professor Zhuzhong Qian in Nanjing University. 
-To date, I have already published over 7 papers, including in journals such as IEEE/ACM TON, and in conferences such as IEEE INFOCOM, IEEE ISPA, IEEE ICC. 
+To date, I have already published over 7 papers, including in journals such as IEEE/ACM TON, and in conferences such as IEEE INFOCOM, IEEE ISPA, IEEE ICC, IWQOS poster, BigCom. 
 My research interests include big data analytics and distributed machine learning.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -68,7 +68,7 @@ My research interests include big data analytics and distributed machine learnin
 
 
 
-- <img src="https://img.shields.io/badge/BigCom-EI-green"> [SAC: Dynamic Caching upon Sketch for In-Memory Big Data Analytics](XXX), **Mingtao Ji**, Mingxian Zhou, Haodong Zou, Ming Tang, Zhuzhong Qian, Xiaoliang Wang, BigCom 2023. (19/74)
+- <img src="https://img.shields.io/badge/BigCom-EI-green"> [SAC: Dynamic Caching upon Sketch for In-Memory Big Data Analytics](XXX), **Mingtao Ji**, Mingxian Zhou, Haodong Zou, Ming Tang, Zhuzhong Qian, Xiaoliang Wang, BigCom 2023. (42/74)
 
 - <img src="https://img.shields.io/badge/IEEE%20TON-CCF--A-green"> [Scheduling In-Band Network Telemetry with Convergence-Preserving Federated Learning](https://ieeexplore.ieee.org/document/10070386), Yibo Jin, Lei Jiao, **Mingtao Ji**, Zhuzhong Qian, Sheng Zhang, Ning Chen, Sanglu Lu, IEEE/ACM TON 2023.
 
@@ -83,9 +83,9 @@ My research interests include big data analytics and distributed machine learnin
 # 📝 Patents 
 
 
-- <img src="https://img.shields.io/badge/Patent%20-Chinese-green"> [一种面向云的带内计算部署方法、装置和系统](http://www.xjishu.com/zhuanli/62/202111433934.html), **吉明涛**, 钱柱中, 韦磊, 缪巍巍, 曾锃. 公开号: CN114124732A, 授权日: 2022/11/25.
+- <img src="https://img.shields.io/badge/Patent%20-Chinese-green"> [一种面向云的带内计算部署方法、装置和系统](https://www.qcc.com/zhuanliDetail/5b246a0a38a9b120ddab7ec5b5315344.html), **吉明涛**(第一发明人), 钱柱中, 韦磊, 缪巍巍, 曾锃. 公开号: CN114124732A, 授权日: 2022/11/25.
 
-- <img src="https://img.shields.io/badge/Patent%20-Chinese-green"> [面向云数据中心智能化监测应用任务部署方法、装置和系统](https://www.qcc.com/zhuanliDetail/933e5d1cff5f459b7b6b328c84db9fbb.html), **吉明涛**. 公开号: CN116032778A.
+- <img src="https://img.shields.io/badge/Patent%20-Chinese-green"> [面向云数据中心智能化监测应用任务部署方法、装置和系统](https://www.qcc.com/zhuanliDetail/933e5d1cff5f459b7b6b328c84db9fbb.html), **吉明涛**(第一学生发明人)，钱柱中. 公开号: CN116032778A, 授权日: 2023/06/06.
 
 
 <!-- Mingtao Ji, Jesus Omana Iglesias, Diego Lugones, Alessandra Sala, Volker Hilt, "A Method and System for Managing Workload Distribution in a Virtualized System", European Patent (No. 3291091), Filed 2016/09/01, Granted 2022/11/30. -->
