@@ -26,6 +26,7 @@ My research interests include P4 switch, SDN, Fedrated Learning, Big Data Analyt
 
 
 # 🔥 News
+- *2023.07*: &nbsp;🎉🎉 Our poster has been accepted by IEEE SECON 2023! 
 - *2023.05*: &nbsp;🎉🎉 Our poster has been accepted by IWQOS 2023! 
 - *2023.04*: &nbsp;🎉🎉 We receive a invitation from IWQOS poster 2023.
 - *2023.04*: &nbsp;🎉🎉 Our paper has been accepted by BigCom 2023! 
@@ -35,6 +36,21 @@ My research interests include P4 switch, SDN, Fedrated Learning, Big Data Analyt
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src="https://img.shields.io/badge/IEEE%20IEEE%20SECON%20Poster-CCF--B-green"><img src='files/SECONPOSTER2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Incentivizing Edge Inference with Accuracy Preserving via Online Randomized Auctions](/files/WAITFORME.pdf)
+
+**Mingtao Ji**, Zhixin Zhang, Yuhan Zhang, Zhuzhong Qian, Tuo Cao, Baoliu Ye.
+
+<!-- [**Project**](https://scholar.google.com) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We jointly complete the project. --> 
+</div></div>
+
+  
+
 
 <div class='paper-box'><div class='paper-box-image'><div><img src="https://img.shields.io/badge/IEEE%20ACM%20IWQoS%20Poster-CCF--B-green"><img src='files/IWQOSPOSTER2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
