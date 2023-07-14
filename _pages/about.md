@@ -113,7 +113,6 @@ My research interests include P4 switch, SDN, Fedrated Learning, Big Data Analyt
 - <img src="https://img.shields.io/badge/Journal%20of%20Physics-EI-green"> [An Energy Efficient Task Scheduling for a Cloud-edge System](https://www.semanticscholar.org/paper/An-Energy-Efficient-Task-Scheduling-for-a-System-Cheng-Yu/6cb99162732facc97b5f2c9170cf64e42b5960f8), Xinyun Cheng, Jinghang Yu, Mingming Zhang, F. Xia, Zichen Zhang, **Mingtao Ji**, Journal of Physics 2022. (EI: 20231113736569)
 
 
-
 # 🎖 Honors and Awards
 - Omit
 <!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -123,6 +122,9 @@ My research interests include P4 switch, SDN, Fedrated Learning, Big Data Analyt
 - *2018.09 - 2021.06*, Nanjing University, Department of Computer Science and Technology. <img src="https://img.shields.io/badge/Score-89%2F100-orange">
 - *2014.09 - 2018.06*, Nanjing University of Aeronautics and Astronautics. College of Computer Science and Technology. <img src="https://img.shields.io/badge/Rating-3%2F120-orange"> 
 
+<!-- # 💬 Invited Talks
+- *2023.05*, Nanjing University, Department of Computer Science and Technology. 
+ -->
 
 
 <!-- # 💬 Invited Talks
