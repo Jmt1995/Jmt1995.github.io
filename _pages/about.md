@@ -26,6 +26,7 @@ My research interests include P4 switch, SDN, Fedrated Learning, Big Data Analyt
 
 
 # 🔥 News
+- *2023.07*: &nbsp;🎉🎉 We have won the "short-term study abroad program for doctoral students of Nanjing University" !
 - *2023.07*: &nbsp;🎉🎉 Our poster has been accepted by IEEE SECON 2023! 
 - *2023.05*: &nbsp;🎉🎉 Our poster has been accepted by IWQOS 2023! 
 - *2023.04*: &nbsp;🎉🎉 We receive a invitation from IWQOS poster 2023.
@@ -55,7 +56,7 @@ My research interests include P4 switch, SDN, Fedrated Learning, Big Data Analyt
 <div class='paper-box'><div class='paper-box-image'><div><img src="https://img.shields.io/badge/IEEE%20ACM%20IWQoS%20Poster-CCF--B-green"><img src='files/IWQOSPOSTER2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Adaptive Provisioning In-band Network Telemetry at Computing Power Network \[invited\]](/files/IWQOSPOSTER2023.pdf)
+[Adaptive Provisioning In-band Network Telemetry at Computing Power Network \[invited\]](https://ieeexplore.ieee.org/document/10188738)
 
 **Mingtao Ji**, Chenwei Su, Yuting Yan, Zhuzhong Qian, Sheng Zhang, Yu Chen, Tuo Cao, Xiaohang Shi, Luis Vasquez, Baoliu Ye.
 
@@ -114,7 +115,10 @@ My research interests include P4 switch, SDN, Fedrated Learning, Big Data Analyt
 
 
 # 🎖 Honors and Awards
-- Omit
+- 2021, Excellent Graduate Cadres
+- 2021, Postgraduate Scholarship
+- 2018, Postgraduate Scholarship
+- 2015, Top 100 Young Students in NUAA
 <!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
@@ -134,10 +138,17 @@ My research interests include P4 switch, SDN, Fedrated Learning, Big Data Analyt
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
+# 💴 Grants
+
+- Mingtao Ji, "Short term study abroad program for doctoral students of Nanjing University", 2023. ≈￥30000
+
+
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <span id="busuanzi_container_site_pv" style="color:#808080;font-size:5px"> Total </span>
 <span id="busuanzi_value_site_pv" style="color:#6C0;font-size:20px"></span> <span id="busuanzi_container_site_pv" style="color:#808080;font-size:5px"> Views. </span>
+
+
 
 
 <!-- https://substats.spencerwoo.com/query.html#api -->
