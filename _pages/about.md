@@ -20,12 +20,14 @@ redirect_from:
 I received the B.E. degree from the College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautic in 2018. 
 I am currently pursuing the PhD degree under the supervision of Professor Zhuzhong Qian in Nanjing University. 
 To date, I have already published over 8 papers, including in journals such as IEEE/ACM TON, and in conferences such as IEEE INFOCOM, IEEE ISPA, IEEE ICC, IEEE/ACM IWQOS poster, IEEE SECON poster, BigCom. 
+I won the Best Paper Award in BigCom 2023.
 My research interests include P4 switch, SDN, Fedrated Learning, Big Data Analytics and Distributed Machine Learning.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
+- *2023.08*: &nbsp;🎉🎉 We won the <font color=red>Best Paper Award</font> in BigCom 2023!
 - *2023.07*: &nbsp;🎉🎉 We have won the "short-term study abroad program for doctoral students of Nanjing University" !
 - *2023.07*: &nbsp;🎉🎉 Our poster has been accepted by IEEE SECON 2023! 
 - *2023.05*: &nbsp;🎉🎉 Our poster has been accepted by IWQOS 2023! 
@@ -115,6 +117,7 @@ My research interests include P4 switch, SDN, Fedrated Learning, Big Data Analyt
 
 
 # 🎖 Honors and Awards
+- 2023, [Best Paper Award](/files/bigcom_bestpaper.pdf) in BigCom 2023
 - 2021, Excellent Graduate Cadres
 - 2021, Postgraduate Scholarship
 - 2018, Postgraduate Scholarship
