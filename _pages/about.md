@@ -87,7 +87,7 @@ My research interests include P4 switch, SDN, Fedrated Learning, Big Data Analyt
 
 
 
-- <img src="https://img.shields.io/badge/BigCom-EI-green"> [SAC: Dynamic Caching upon Sketch for In-Memory Big Data Analytics](XXX), **Mingtao Ji**, Mingxian Zhou, Haodong Zou, Ming Tang, Zhuzhong Qian, Xiaoliang Wang, BigCom 2023. (42/74)
+- <img src="https://img.shields.io/badge/BigCom-EI-green"> [SAC: Dynamic Caching upon Sketch for In-Memory Big Data Analytics](XXX), **Mingtao Ji**, Mingxian Zhou, Haodong Zou, Ming Tang, Zhuzhong Qian, Xiaoliang Wang, BigCom 2023. (<font color=red>1</font>/42/74,  <font color=red>Best Paper Award</font>)
 
 - <img src="https://img.shields.io/badge/IEEE%20TON-CCF--A-green"> [Scheduling In-Band Network Telemetry with Convergence-Preserving Federated Learning](https://ieeexplore.ieee.org/document/10070386), Yibo Jin, Lei Jiao, **Mingtao Ji**, Zhuzhong Qian, Sheng Zhang, Ning Chen, Sanglu Lu, IEEE/ACM TON 2023.
 
