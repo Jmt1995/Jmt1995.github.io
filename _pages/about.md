@@ -28,7 +28,7 @@ My research interests include P4 switch, SDN, Fedrated Learning, Big Data Analyt
 
 # 🔥 News
 - *2023.08*: &nbsp;🎉🎉 We won the <font color=red>Best Paper Award</font> in BigCom 2023!
-- *2023.07*: &nbsp;🎉🎉 We have won the "short-term study abroad program for doctoral students of Nanjing University" !
+- *2023.07*: &nbsp;🎉🎉 We have won the "short-term study abroad program for doctoral students of Nanjing University" ($9600) !
 - *2023.07*: &nbsp;🎉🎉 Our poster has been accepted by IEEE SECON 2023! 
 - *2023.05*: &nbsp;🎉🎉 Our poster has been accepted by IWQOS 2023! 
 - *2023.04*: &nbsp;🎉🎉 We receive a invitation from IWQOS poster 2023.
@@ -143,7 +143,7 @@ My research interests include P4 switch, SDN, Fedrated Learning, Big Data Analyt
 
 # 💴 Grants
 
-- Mingtao Ji, "Short term study abroad program for doctoral students of Nanjing University", 2023. ≈￥30000
+- Mingtao Ji, "Short term study abroad program for doctoral students of Nanjing University", 2023. ≈ $9600
 
 
 
