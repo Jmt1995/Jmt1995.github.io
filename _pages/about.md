@@ -71,7 +71,7 @@ My research interests include P4 switch, SDN, Fedrated Learning, Big Data Analyt
 <div class='paper-box'><div class='paper-box-image'><div><img src="https://img.shields.io/badge/IEEE%20ICC-CCF--C-green"><img src='files/ICC_BGD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[INTView: Adaptive Planner for In-Band Network Telemetry without Detours](/files/ICC2023.pdf)
+[INTView: Adaptive Planner for In-Band Network Telemetry without Detours](/files/WAITFORME.pdf)
 
 **Mingtao Ji**, Chenwei Su, Yuting Yan, Zhuzhong Qian, Yu Chen, Yibo Jin, Sheng Zhang, Baoliu Ye.
 
@@ -125,7 +125,7 @@ My research interests include P4 switch, SDN, Fedrated Learning, Big Data Analyt
 <!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2021.09 - 2023.03 (now)*, Nanjing University, Department of Computer Science and Technology. 
+- *2021.09 - 2023.09 (now)*, Nanjing University, Department of Computer Science and Technology. 
 - *2018.09 - 2021.06*, Nanjing University, Department of Computer Science and Technology. <img src="https://img.shields.io/badge/Score-89%2F100-orange">
 - *2014.09 - 2018.06*, Nanjing University of Aeronautics and Astronautics. College of Computer Science and Technology. <img src="https://img.shields.io/badge/Rating-3%2F120-orange"> 
 
