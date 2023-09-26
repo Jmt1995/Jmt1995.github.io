@@ -21,7 +21,8 @@ I received the B.E. degree from the College of Computer Science and Technology, 
 I am currently pursuing the PhD degree under the supervision of Professor Zhuzhong Qian in Nanjing University. 
 To date, I have already published over 8 papers, including in journals such as IEEE/ACM TON, and in conferences such as IEEE INFOCOM, IEEE ISPA, IEEE ICC, IEEE/ACM IWQOS poster, IEEE SECON poster, BigCom. 
 I won the Best Paper Award in BigCom 2023.
-My research interests include P4 switch, SDN, Fedrated Learning, Big Data Analytics and Distributed Machine Learning.
+My research interests include P4 switch, SDN, Fedrated Learning, Big Data Analytics and Distributed Machine Learning. 
+Here is my [CV](/files/MingtaoJi-CV-En.pdf).
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
