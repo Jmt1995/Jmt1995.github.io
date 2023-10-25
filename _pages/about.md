@@ -45,7 +45,7 @@ Here is my [CV](/files/MingtaoJi-CV-En.pdf).
 <div class='paper-box'><div class='paper-box-image'><div><img src="https://img.shields.io/badge/IEEE%20IEEE%20SECON%20Poster-CCF--B-green"><img src='files/SECONPOSTER2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Incentivizing Edge Inference with Accuracy Preserving via Online Randomized Auctions](/files/WAITFORME.pdf)
+[Incentivizing Edge Inference with Accuracy Preserving via Online Randomized Auctions](https://ieeexplore.ieee.org/abstract/document/10287443)
 
 **Mingtao Ji**, Zhixin Zhang, Yuhan Zhang, Zhuzhong Qian, Tuo Cao, Baoliu Ye.
 
@@ -72,7 +72,8 @@ Here is my [CV](/files/MingtaoJi-CV-En.pdf).
 <div class='paper-box'><div class='paper-box-image'><div><img src="https://img.shields.io/badge/IEEE%20ICC-CCF--C-green"><img src='files/ICC_BGD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[INTView: Adaptive Planner for In-Band Network Telemetry without Detours](/files/WAITFORME.pdf)
+<!-- [INTView: Adaptive Planner for In-Band Network Telemetry without Detours](/files/WAITFORME.pdf) -->
+[INTView: Adaptive Planner for In-Band Network Telemetry without Detours](https://ieeexplore.ieee.org/document/10279624)
 
 **Mingtao Ji**, Chenwei Su, Yuting Yan, Zhuzhong Qian, Yu Chen, Yibo Jin, Sheng Zhang, Baoliu Ye.
 
