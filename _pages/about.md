@@ -16,18 +16,21 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+I obtained my B.E. degree from the College of Computer Science and Technology at Nanjing University of Aeronautics and Astronautics (NUAA) in 2018. 
+Currently, I am pursuing a Ph.D. under the supervision of Professor Zhuzhong Qian at Nanjing University. 
+To date, I have published or had more than 9 papers accepted in renowned journals and conferences, 
+including IEEE/ACM TON, IEEE INFOCOM, IEEE ISPA, IEEE ICC, IEEE ICPADS, IEEE/ACM IWQOS poster, IEEE SECON poster, and BigCom. 
+I was honored with the Best Paper Award at BigCom 2023. 
+My research interests encompass P4 switch, SDN, Federated Learning, Big Data Analytics, and Distributed Machine Learning. 
+You can find my detailed [CV](/files/MingtaoJi-CV-En.pdf) attached.
 
-I received the B.E. degree from the College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautic in 2018. 
-I am currently pursuing the PhD degree under the supervision of Professor Zhuzhong Qian in Nanjing University. 
-To date, I have already published over 8 papers, including in journals such as IEEE/ACM TON, and in conferences such as IEEE INFOCOM, IEEE ISPA, IEEE ICC, IEEE/ACM IWQOS poster, IEEE SECON poster, BigCom. 
-I won the Best Paper Award in BigCom 2023.
-My research interests include P4 switch, SDN, Fedrated Learning, Big Data Analytics and Distributed Machine Learning. 
-Here is my [CV](/files/MingtaoJi-CV-En.pdf).
+
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
+- *2023.10*: &nbsp;🎉🎉 Our two papers have been accepted by IEEE ICPADS 2023!
 - *2023.08*: &nbsp;🎉🎉 We won the <font color=red>Best Paper Award</font> in BigCom 2023!
 - *2023.07*: &nbsp;🎉🎉 We have won the "short-term study abroad program for doctoral students of Nanjing University" ($9600) !
 - *2023.07*: &nbsp;🎉🎉 Our poster has been accepted by IEEE SECON 2023! 
@@ -42,7 +45,18 @@ Here is my [CV](/files/MingtaoJi-CV-En.pdf).
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src="https://img.shields.io/badge/IEEE%20IEEE%20SECON%20Poster-CCF--B-green"><img src='files/SECONPOSTER2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src="https://img.shields.io/badge/IEEE%20ICPADS-CCF--C-green"><img src='files/ICPADS2023CPN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[When CPN Meets AI: Resource Provisioning for Inference Query Upon Computing Power Network](/files/WAITFORME.pdf)
+
+**Mingtao Ji**, Zhuzhong Qian, Baoliu Ye.
+
+[**IEEE ICPADS 2023**](https://ieee-cybermatics.org/2023/icpads/): Acceptance Rate 19.44%, 196/1008.
+</div></div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src="https://img.shields.io/badge/IEEE%20SECON%20Poster-CCF--B-green"><img src='files/SECONPOSTER2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Incentivizing Edge Inference with Accuracy Preserving via Online Randomized Auctions](https://ieeexplore.ieee.org/abstract/document/10287443)
@@ -54,8 +68,6 @@ Here is my [CV](/files/MingtaoJi-CV-En.pdf).
 </div></div>
 
   
-
-
 <div class='paper-box'><div class='paper-box-image'><div><img src="https://img.shields.io/badge/IEEE%20ACM%20IWQoS%20Poster-CCF--B-green"><img src='files/IWQOSPOSTER2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -87,6 +99,8 @@ Here is my [CV](/files/MingtaoJi-CV-En.pdf).
 <!-- https://www.shields.io/ -->
 <!-- - <img src="https://img.shields.io/badge/IEEE%20ICC-CCF--C-green"> [INTView: Adaptive Planner for In-Band Network Telemetry without Detours](/files/ICC2023.pdf), **Mingtao Ji**, Chenwei Su, Yuting Yan, Zhuzhong Qian, Yu Chen, Yibo Jin, Sheng Zhang, Baoliu Ye, IEEE ICC 2023: To Be published. -->
 
+
+- <img src="https://img.shields.io/badge/IEEE%20ICPADS-CCF--C-green"> [Accelerating Federated Learning With Adaptive Extra Local Updates Upon Edge Networks](/files/WAITFORME.pdf), Yitao Fan, **Mingtao Ji**, Zhuzhong Qian, IEEE ICPADS 2023. (19.44%, 196/1008)
 
 
 - <img src="https://img.shields.io/badge/BigCom-EI-green"> [SAC: Dynamic Caching upon Sketch for In-Memory Big Data Analytics](XXX), **Mingtao Ji**, Mingxian Zhou, Haodong Zou, Ming Tang, Zhuzhong Qian, Xiaoliang Wang, BigCom 2023. (<font color=red>1</font>/42/74,  <font color=red>Best Paper Award</font>)
@@ -127,7 +141,7 @@ Here is my [CV](/files/MingtaoJi-CV-En.pdf).
 <!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2021.09 - 2023.09 (now)*, Nanjing University, Department of Computer Science and Technology. 
+- *2021.09 - now*, Nanjing University, Department of Computer Science and Technology. 
 - *2018.09 - 2021.06*, Nanjing University, Department of Computer Science and Technology. <img src="https://img.shields.io/badge/Score-89%2F100-orange">
 - *2014.09 - 2018.06*, Nanjing University of Aeronautics and Astronautics. College of Computer Science and Technology. <img src="https://img.shields.io/badge/Rating-3%2F120-orange"> 
 
