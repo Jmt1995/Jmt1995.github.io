@@ -19,8 +19,8 @@ redirect_from:
 I obtained my B.E. degree from the College of Computer Science and Technology at Nanjing University of Aeronautics and Astronautics (NUAA) in 2018. 
 Currently, I am pursuing a Ph.D. under the supervision of Professor Zhuzhong Qian at Nanjing University. 
 To date, I have published or had more than 9 papers accepted in renowned journals and conferences, 
-including IEEE/ACM TON, IEEE INFOCOM, IEEE ISPA, IEEE ICC, IEEE ICPADS, IEEE/ACM IWQOS poster, IEEE SECON poster, and BigCom. 
-I was honored with the Best Paper Award at BigCom 2023. 
+including IEEE/ACM TON, IEEE INFOCOM, COMNET, IEEE ISPA, IEEE ICC, IEEE ICPADS, IEEE/ACM IWQOS poster, IEEE SECON poster, and BigCom. 
+My first-author paper was honored with the Best Paper Award at BigCom 2023. 
 My research interests encompass P4 switch, SDN, Federated Learning, Big Data Analytics, and Distributed Machine Learning. 
 You can find my detailed [CV](/files/MingtaoJi-CV-En.pdf) attached.
 
@@ -30,6 +30,7 @@ You can find my detailed [CV](/files/MingtaoJi-CV-En.pdf) attached.
 
 
 # 🔥 News
+- *2023.12*: &nbsp;🎉🎉 Our paper has been accepted by COMNET. Congratulations to Tuo Cao!
 - *2023.10*: &nbsp;🎉🎉 Our two papers have been accepted by IEEE ICPADS 2023!
 - *2023.08*: &nbsp;🎉🎉 We won the <font color=red>Best Paper Award</font> in BigCom 2023!
 - *2023.07*: &nbsp;🎉🎉 We have won the "short-term study abroad program for doctoral students of Nanjing University" ($9600) !
