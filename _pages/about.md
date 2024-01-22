@@ -18,10 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 I obtained my B.E. degree from the College of Computer Science and Technology at Nanjing University of Aeronautics and Astronautics (NUAA) in 2018. 
 Currently, I am pursuing a Ph.D. under the supervision of Professor Zhuzhong Qian at Nanjing University. 
-To date, I have published or had more than 11 papers accepted in renowned journals and conferences, 
-including IEEE/ACM TON, IEEE INFOCOM, COMNET, IEEE ISPA, IEEE ICC, IEEE ICPADS, IEEE/ACM IWQOS poster, IEEE SECON poster, and BigCom. 
+To date, I have published or had more than 12 papers accepted in renowned journals and conferences, 
+including IEEE/ACM TON, Computer Networks, IEEE INFOCOM, COMNET, IEEE ISPA, IEEE ICC, IEEE ICPADS, IEEE/ACM IWQOS poster, IEEE SECON poster, and BigCom. 
 My first-author paper was honored with the Best Paper Award at BigCom 2023. 
-My research interests encompass P4 switch, SDN, Federated Learning, Big Data Analytics, and Distributed Machine Learning. 
+My research interests encompass CPN, In-band Network Telemetry, P4 switch, SDN, Federated Learning, Big Data Analytics, and Distributed Machine Learning. 
 You can find my detailed [CV](/files/MingtaoJi-CV-En.pdf) attached.
 
 
@@ -30,7 +30,8 @@ You can find my detailed [CV](/files/MingtaoJi-CV-En.pdf) attached.
 
 
 # 🔥 News
-- *2023.12*: &nbsp;🎉🎉 Our paper has been accepted by COMNET, congratulations to Tuo Cao!
+- *2024.01*: &nbsp;🎉🎉 Our paper has been accepted by Computer Networks!
+- *2023.12*: &nbsp;🎉🎉 Our paper has been accepted by Computer Networks, congratulations to Tuo Cao!
 - *2023.10*: &nbsp;🎉🎉 Our two papers have been accepted by IEEE ICPADS 2023!
 - *2023.08*: &nbsp;🎉🎉 We won the <font color=red>Best Paper Award</font> in BigCom 2023!
 - *2023.07*: &nbsp;🎉🎉 We have won the "short-term study abroad program for doctoral students of Nanjing University" ($9600) !
@@ -45,6 +46,19 @@ You can find my detailed [CV](/files/MingtaoJi-CV-En.pdf) attached.
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src="https://img.shields.io/badge/Computer%20Networks-CCF--B-green"><img src='files/CN2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[INTaaS: Provisioning In-band Network Telemetry as a Service via Online Learning](/files/WAITFORME.pdf)
+
+**Mingtao Ji**, Chenwei Su, Yitao Fan, Zhuzhong Qian, Yuting Yan, Yibo Jin, Tuo Cao, Yu Chen, Sheng Zhang, Baoliu Ye.
+
+<!-- [**Project**](https://scholar.google.com) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We jointly complete the project. --> 
+[**Computer Network**](https://www.sciencedirect.com/journal/computer-networks): 2024-01-22.
+</div></div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><img src="https://img.shields.io/badge/IEEE%20ICPADS-CCF--C-green"><img src='files/ICPADS2023CPN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -53,7 +67,7 @@ You can find my detailed [CV](/files/MingtaoJi-CV-En.pdf) attached.
 
 **Mingtao Ji**, Zhuzhong Qian, Baoliu Ye.
 
-[**IEEE ICPADS 2023**](https://ieee-cybermatics.org/2023/icpads/): Acceptance Rate 19.44%, 196/1008.
+[**IEEE ICPADS 2023**](https://ieee-cybermatics.org/2023/icpads/): Acceptance Rate 19.44%, 196/1008, 2023-10-27.
 </div></div>
 
 
@@ -66,6 +80,7 @@ You can find my detailed [CV](/files/MingtaoJi-CV-En.pdf) attached.
 
 <!-- [**Project**](https://scholar.google.com) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We jointly complete the project. --> 
+[**IEEE SECON 2023**](https://secon2023.ieee-secon.org/): 2023-07.
 </div></div>
 
   
@@ -76,8 +91,8 @@ You can find my detailed [CV](/files/MingtaoJi-CV-En.pdf) attached.
 
 **Mingtao Ji**, Chenwei Su, Yuting Yan, Zhuzhong Qian, Sheng Zhang, Yu Chen, Tuo Cao, Xiaohang Shi, Luis Vasquez, Baoliu Ye.
 
-<!-- [**Project**](https://scholar.google.com) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We jointly complete the project. --> 
+[**IEEE/ACM IWQoS 2023**](https://iwqos2023.ieee-iwqos.org/): 2023-04.
+
 </div></div>
 
 
@@ -101,7 +116,7 @@ You can find my detailed [CV](/files/MingtaoJi-CV-En.pdf) attached.
 <!-- - <img src="https://img.shields.io/badge/IEEE%20ICC-CCF--C-green"> [INTView: Adaptive Planner for In-Band Network Telemetry without Detours](/files/ICC2023.pdf), **Mingtao Ji**, Chenwei Su, Yuting Yan, Zhuzhong Qian, Yu Chen, Yibo Jin, Sheng Zhang, Baoliu Ye, IEEE ICC 2023: To Be published. -->
 
 
-- <img src="https://img.shields.io/badge/COMNET-CCF--B-green"> [Walking on Two Legs: Joint Service Placement and Computation Configuration for Provisioning Containerized Services at Edges](https://www.sciencedirect.com/science/article/pii/S1389128623005893), Tuo Cao, Qinhui Wang, Yuhan Zhang, Zhuzhong Qian, Yue Zeng, **Mingtao Ji**, Hesheng Sun, Baoliu Ye, Computer Network 2023. 
+- <img src="https://img.shields.io/badge/COMNET-CCF--B-green"> [Walking on Two Legs: Joint Service Placement and Computation Configuration for Provisioning Containerized Services at Edges](https://www.sciencedirect.com/science/article/pii/S1389128623005893), Tuo Cao, Qinhui Wang, Yuhan Zhang, Zhuzhong Qian, Yue Zeng, **Mingtao Ji**, Hesheng Sun, Baoliu Ye, Computer Networks 2023. 
 
 
 - <img src="https://img.shields.io/badge/IEEE%20ICPADS-CCF--C-green"> [Accelerating Federated Learning With Adaptive Extra Local Updates Upon Edge Networks](/files/WAITFORME.pdf), Yitao Fan, **Mingtao Ji**, Zhuzhong Qian, IEEE ICPADS 2023. (19.44%, 196/1008)
