@@ -49,7 +49,7 @@ You can find my detailed [CV](/files/MingtaoJi-CV-En.pdf) attached.
 <div class='paper-box'><div class='paper-box-image'><div><img src="https://img.shields.io/badge/Computer%20Networks-CCF--B-green"><img src='files/CN2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[INTaaS: Provisioning In-band Network Telemetry as a Service via Online Learning](/files/WAITFORME.pdf)
+[INTaaS: Provisioning In-band Network Telemetry as a Service via Online Learning](https://www.sciencedirect.com/science/article/pii/S1389128624000434)
 
 **Mingtao Ji**, Chenwei Su, Yitao Fan, Zhuzhong Qian, Yuting Yan, Yibo Jin, Tuo Cao, Yu Chen, Sheng Zhang, Baoliu Ye.
 
