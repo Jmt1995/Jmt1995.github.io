@@ -55,7 +55,7 @@ You can find my detailed [CV](/files/MingtaoJi-CV-En.pdf) attached.
 
 <!-- [**Project**](https://scholar.google.com) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We jointly complete the project. --> 
-[**Computer Network**](https://www.sciencedirect.com/journal/computer-networks): 2024-01-22.
+[**Computer Networks**](https://www.sciencedirect.com/journal/computer-networks): 2024-01-22.
 </div></div>
 
 
