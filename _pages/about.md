@@ -105,6 +105,8 @@ You can find my detailed [CV](/files/MingtaoJi-CV-En.pdf) attached.
 
 **Mingtao Ji**, Chenwei Su, Yuting Yan, Zhuzhong Qian, Yu Chen, Yibo Jin, Sheng Zhang, Baoliu Ye.
 
+[**IEEE ICC 2023**](https://icc2023.ieee-icc.org/): 2023-01-17.
+
 <!-- [**Project**](https://scholar.google.com) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We jointly complete the project. --> 
 </div></div>
