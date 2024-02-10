@@ -124,7 +124,7 @@ You can find my detailed [CV](/files/MingtaoJi-CV-En.pdf) attached.
 - <img src="https://img.shields.io/badge/IEEE%20ICPADS-CCF--C-green"> [Accelerating Federated Learning With Adaptive Extra Local Updates Upon Edge Networks](/files/WAITFORME.pdf), Yitao Fan, **Mingtao Ji**, Zhuzhong Qian, IEEE ICPADS 2023. (19.44%, 196/1008)
 
 
-- <img src="https://img.shields.io/badge/BigCom-EI-green"> [SAC: Dynamic Caching upon Sketch for In-Memory Big Data Analytics](XXX), **Mingtao Ji**, Mingxian Zhou, Haodong Zou, Ming Tang, Zhuzhong Qian, Xiaoliang Wang, BigCom 2023. (<font color=red>1</font>/42/74,  <font color=red>Best Paper Award</font>)
+- <img src="https://img.shields.io/badge/BigCom-EI-green"> [SAC: Dynamic Caching upon Sketch for In-Memory Big Data Analytics](https://ieeexplore.ieee.org/abstract/document/10415586), **Mingtao Ji**, Mingxian Zhou, Haodong Zou, Ming Tang, Zhuzhong Qian, Xiaoliang Wang, BigCom 2023. (<font color=red>1</font>/42/74,  <font color=red>Best Paper Award</font>)
 
 - <img src="https://img.shields.io/badge/IEEE%20TON-CCF--A-green"> [Scheduling In-Band Network Telemetry with Convergence-Preserving Federated Learning](https://ieeexplore.ieee.org/document/10070386), Yibo Jin, Lei Jiao, **Mingtao Ji**, Zhuzhong Qian, Sheng Zhang, Ning Chen, Sanglu Lu, IEEE/ACM TON 2023.
 
