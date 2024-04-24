@@ -63,7 +63,7 @@ You can find my detailed [CV](/files/MingtaoJi-CV-En.pdf) attached.
 <div class='paper-box'><div class='paper-box-image'><div><img src="https://img.shields.io/badge/IEEE%20ICPADS-CCF--C-green"><img src='files/ICPADS2023CPN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[When CPN Meets AI: Resource Provisioning for Inference Query Upon Computing Power Network](/files/WAITFORME.pdf)
+[When CPN Meets AI: Resource Provisioning for Inference Query Upon Computing Power Network](https://ieeexplore.ieee.org/document/10476048)
 
 **Mingtao Ji**, Zhuzhong Qian, Baoliu Ye.
 
@@ -121,7 +121,7 @@ You can find my detailed [CV](/files/MingtaoJi-CV-En.pdf) attached.
 - <img src="https://img.shields.io/badge/COMNET-CCF--B-green"> [Walking on Two Legs: Joint Service Placement and Computation Configuration for Provisioning Containerized Services at Edges](https://www.sciencedirect.com/science/article/pii/S1389128623005893), Tuo Cao, Qinhui Wang, Yuhan Zhang, Zhuzhong Qian, Yue Zeng, **Mingtao Ji**, Hesheng Sun, Baoliu Ye, Computer Networks 2023. 
 
 
-- <img src="https://img.shields.io/badge/IEEE%20ICPADS-CCF--C-green"> [Accelerating Federated Learning With Adaptive Extra Local Updates Upon Edge Networks](/files/WAITFORME.pdf), Yitao Fan, **Mingtao Ji**, Zhuzhong Qian, IEEE ICPADS 2023. (19.44%, 196/1008)
+- <img src="https://img.shields.io/badge/IEEE%20ICPADS-CCF--C-green"> [Accelerating Federated Learning With Adaptive Extra Local Updates Upon Edge Networks](https://ieeexplore.ieee.org/document/10476136), Yitao Fan, **Mingtao Ji**, Zhuzhong Qian, IEEE ICPADS 2023. (19.44%, 196/1008)
 
 
 - <img src="https://img.shields.io/badge/BigCom-EI-green"> [SAC: Dynamic Caching upon Sketch for In-Memory Big Data Analytics](https://ieeexplore.ieee.org/abstract/document/10415586), **Mingtao Ji**, Mingxian Zhou, Haodong Zou, Ming Tang, Zhuzhong Qian, Xiaoliang Wang, BigCom 2023. (<font color=red>1</font>/42/74,  <font color=red>Best Paper Award</font>)
@@ -129,7 +129,7 @@ You can find my detailed [CV](/files/MingtaoJi-CV-En.pdf) attached.
 - <img src="https://img.shields.io/badge/IEEE%20TON-CCF--A-green"> [Scheduling In-Band Network Telemetry with Convergence-Preserving Federated Learning](https://ieeexplore.ieee.org/document/10070386), Yibo Jin, Lei Jiao, **Mingtao Ji**, Zhuzhong Qian, Sheng Zhang, Ning Chen, Sanglu Lu, IEEE/ACM TON 2023.
 
 
-- <img src="https://img.shields.io/badge/IEEE%20INFOCOM-CCF--A-green"> [Crowd2: Multi-agent Bandit-based Dispatch for Video Analytics upon Crowdsourcing](https://), Yu Chen, Sheng Zhang, Yuting Yan, Zhuzhong Qian, Yibo Jin, Ning Chen, **Mingtao Ji**, Mingjun Xiao, IEEE INFOCOM 2023: To Be published.
+- <img src="https://img.shields.io/badge/IEEE%20INFOCOM-CCF--A-green"> [Crowd2: Multi-agent Bandit-based Dispatch for Video Analytics upon Crowdsourcing](xxxxxx), Yu Chen, Sheng Zhang, Yuting Yan, Zhuzhong Qian, Yibo Jin, Ning Chen, **Mingtao Ji**, Mingjun Xiao, IEEE INFOCOM 2023: To Be published.
 
 - <img src="https://img.shields.io/badge/IEEE%20ISPA-CCF--C-green"> [Workload-Aware Scheduling for Data Analytics upon Heterogeneous Storage](https://ieeexplore.ieee.org/document/9047284/), Zhuzhong Qian, Yuan Gao, **Mingtao Ji**, Hui Peng, Peng Chen, Yibo Jin, Sanglu Lu, IEEE ISPA 2019: 580-587.
 
