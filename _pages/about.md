@@ -18,8 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 I obtained my B.E. degree from the College of Computer Science and Technology at Nanjing University of Aeronautics and Astronautics (NUAA) in 2018. 
 Currently, I am pursuing a Ph.D. under the supervision of Professor Zhuzhong Qian at Nanjing University. 
-To date, I have published or had more than 12 papers accepted in renowned journals and conferences, 
-including IEEE/ACM TON, Computer Networks, IEEE INFOCOM, COMNET, IEEE ISPA, IEEE ICC, IEEE ICPADS, IEEE/ACM IWQOS poster, IEEE SECON poster, and BigCom. 
+To date, I have published or had more than 13 papers accepted in renowned journals and conferences, 
+including IEEE/ACM TON, Computer Networks, Journal of Computer Science and Technology, IEEE INFOCOM, IEEE ISPA, IEEE ICC, IEEE ICPADS, IEEE/ACM IWQOS poster, IEEE SECON poster, and BigCom. 
 My first-author paper was honored with the Best Paper Award at BigCom 2023. 
 My research interests encompass CPN, In-band Network Telemetry, P4 switch, SDN, Federated Learning, Big Data Analytics, and Distributed Machine Learning. 
 You can find my detailed [CV](/files/MingtaoJi-CV-En.pdf) attached.
@@ -30,6 +30,7 @@ You can find my detailed [CV](/files/MingtaoJi-CV-En.pdf) attached.
 
 
 # 🔥 News
+- *2024.05*: &nbsp;🎉🎉 Our paper has been accepted by Journal of Computer Science and Technology!
 - *2024.01*: &nbsp;🎉🎉 Our paper has been accepted by Computer Networks!
 - *2023.12*: &nbsp;🎉🎉 Our paper has been accepted by Computer Networks, congratulations to Tuo Cao!
 - *2023.10*: &nbsp;🎉🎉 Our two papers have been accepted by IEEE ICPADS 2023!
@@ -45,6 +46,20 @@ You can find my detailed [CV](/files/MingtaoJi-CV-En.pdf) attached.
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><img src="https://img.shields.io/badge/JCST-CCF--B-green"><img src='files/JCST2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Orchestrating In-network Aggregation for Distributed Machine Learning via In-band Network Telemetry](files/WAITFORME.pdf)
+
+**Mingtao Ji**, Yibo Jin, Zhuzhong Qian, Tuo Cao, Baoliu Ye.
+
+<!-- [**Project**](https://scholar.google.com) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We jointly complete the project. --> 
+[**Journal of Computer Science and Technology**](https://jcst.ict.ac.cn/): 2024-05-14.
+</div></div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><img src="https://img.shields.io/badge/Computer%20Networks-CCF--B-green"><img src='files/CN2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
