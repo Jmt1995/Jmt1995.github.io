@@ -26,11 +26,13 @@ You can find my detailed [CV](/files/MingtaoJi-CV-En.pdf) attached.
 
 
 
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
+<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). 
+- *2024.05*: &nbsp;🎉🎉 Our paper has been accepted by Journal of Computer Science and Technology. (accept on condition, Minor Revision)
+-->
 
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉🎉 Our paper has been accepted by Journal of Computer Science and Technology!
+- *2024.05*: &nbsp;🎉🎉 Our paper has been accepted on condition by Journal of Computer Science and Technology. (Minor Revision)
 - *2024.01*: &nbsp;🎉🎉 Our paper has been accepted by Computer Networks!
 - *2023.12*: &nbsp;🎉🎉 Our paper has been accepted by Computer Networks, congratulations to Tuo Cao!
 - *2023.10*: &nbsp;🎉🎉 Our two papers have been accepted by IEEE ICPADS 2023!
@@ -56,7 +58,7 @@ You can find my detailed [CV](/files/MingtaoJi-CV-En.pdf) attached.
 
 <!-- [**Project**](https://scholar.google.com) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We jointly complete the project. --> 
-[**Journal of Computer Science and Technology**](https://jcst.ict.ac.cn/): 2024-05-14.
+[**Journal of Computer Science and Technology**](https://jcst.ict.ac.cn/): accept on condition, Minor Revision, 2024-05-14.
 </div></div>
 
 
