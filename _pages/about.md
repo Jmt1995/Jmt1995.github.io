@@ -32,7 +32,8 @@ You can find my detailed [CV](/files/MingtaoJi-CV-En.pdf) attached.
 
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉🎉 Our paper has been accepted on condition by Journal of Computer Science and Technology. (Minor Revision)
+- *2024.09*: &nbsp;🎉🎉 Our paper has been accepted on condition by Journal of Computer Science and Technology. 
+- *2024.05*: &nbsp;🎉🎉 Our paper receives Minor Revision from  Journal of Computer Science and Technology. 
 - *2024.01*: &nbsp;🎉🎉 Our paper has been accepted by Computer Networks!
 - *2023.12*: &nbsp;🎉🎉 Our paper has been accepted by Computer Networks, congratulations to Tuo Cao!
 - *2023.10*: &nbsp;🎉🎉 Our two papers have been accepted by IEEE ICPADS 2023!
@@ -58,7 +59,7 @@ You can find my detailed [CV](/files/MingtaoJi-CV-En.pdf) attached.
 
 <!-- [**Project**](https://scholar.google.com) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We jointly complete the project. --> 
-[**Journal of Computer Science and Technology**](https://jcst.ict.ac.cn/): accept on condition, Minor Revision, 2024-05-14.
+[**Journal of Computer Science and Technology**](https://jcst.ict.ac.cn/): Accepted, 2024-09-03.
 </div></div>
 
 
