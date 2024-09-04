@@ -53,7 +53,7 @@ You can find my detailed [CV](/files/MingtaoJi-CV-En.pdf) attached.
 <div class='paper-box'><div class='paper-box-image'><div><img src="https://img.shields.io/badge/JCST-CCF--B-green"><img src='files/JCST2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Orchestrating In-network Aggregation for Distributed Machine Learning via In-band Network Telemetry](files/WAITFORME.pdf)
+[Orchestrating In-network Aggregation for Distributed Machine Learning via In-band Network Telemetry](https://jcst.ict.ac.cn/article/doi/10.1007/s11390-024-3342-y)
 
 **Mingtao Ji**, Yibo Jin, Zhuzhong Qian, Tuo Cao, Baoliu Ye.
 
