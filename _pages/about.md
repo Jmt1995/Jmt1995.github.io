@@ -32,7 +32,7 @@ You can find my detailed [CV](/files/MingtaoJi-CV-En.pdf) attached.
 
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉 Our paper has been accepted on condition by Journal of Computer Science and Technology. 
+- *2024.09*: &nbsp;🎉🎉 Our paper has been accepted by Journal of Computer Science and Technology. 
 - *2024.05*: &nbsp;🎉🎉 Our paper receives Minor Revision from  Journal of Computer Science and Technology. 
 - *2024.01*: &nbsp;🎉🎉 Our paper has been accepted by Computer Networks!
 - *2023.12*: &nbsp;🎉🎉 Our paper has been accepted by Computer Networks, congratulations to Tuo Cao!
@@ -147,7 +147,7 @@ You can find my detailed [CV](/files/MingtaoJi-CV-En.pdf) attached.
 - <img src="https://img.shields.io/badge/IEEE%20TON-CCF--A-green"> [Scheduling In-Band Network Telemetry with Convergence-Preserving Federated Learning](https://ieeexplore.ieee.org/document/10070386), Yibo Jin, Lei Jiao, **Mingtao Ji**, Zhuzhong Qian, Sheng Zhang, Ning Chen, Sanglu Lu, IEEE/ACM TON 2023.
 
 
-- <img src="https://img.shields.io/badge/IEEE%20INFOCOM-CCF--A-green"> [Crowd2: Multi-agent Bandit-based Dispatch for Video Analytics upon Crowdsourcing](xxxxxx), Yu Chen, Sheng Zhang, Yuting Yan, Zhuzhong Qian, Yibo Jin, Ning Chen, **Mingtao Ji**, Mingjun Xiao, IEEE INFOCOM 2023: To Be published.
+- <img src="https://img.shields.io/badge/IEEE%20INFOCOM-CCF--A-green"> [Crowd2: Multi-agent Bandit-based Dispatch for Video Analytics upon Crowdsourcing](https://ieeexplore.ieee.org/document/10228927), Yu Chen, Sheng Zhang, Yuting Yan, Zhuzhong Qian, Yibo Jin, Ning Chen, **Mingtao Ji**, Mingjun Xiao, IEEE INFOCOM 2023.
 
 - <img src="https://img.shields.io/badge/IEEE%20ISPA-CCF--C-green"> [Workload-Aware Scheduling for Data Analytics upon Heterogeneous Storage](https://ieeexplore.ieee.org/document/9047284/), Zhuzhong Qian, Yuan Gao, **Mingtao Ji**, Hui Peng, Peng Chen, Yibo Jin, Sanglu Lu, IEEE ISPA 2019: 580-587.
 
