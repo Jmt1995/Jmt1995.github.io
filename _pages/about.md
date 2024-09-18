@@ -38,14 +38,20 @@ You can find my detailed [CV](/files/MingtaoJi-CV-En.pdf) attached.
 - *2023.12*: &nbsp;🎉🎉 Our paper has been accepted by Computer Networks, congratulations to Tuo Cao!
 - *2023.10*: &nbsp;🎉🎉 Our two papers have been accepted by IEEE ICPADS 2023!
 - *2023.08*: &nbsp;🎉🎉 We won the <font color=red>Best Paper Award</font> in BigCom 2023!
-- *2023.07*: &nbsp;🎉🎉 We have won the "short-term study abroad program for doctoral students of Nanjing University" ($9600) !
-- *2023.07*: &nbsp;🎉🎉 Our poster has been accepted by IEEE SECON 2023! 
-- *2023.05*: &nbsp;🎉🎉 Our poster has been accepted by IWQOS 2023! 
-- *2023.04*: &nbsp;🎉🎉 We receive a invitation from IWQOS poster 2023.
-- *2023.04*: &nbsp;🎉🎉 Our paper has been accepted by BigCom 2023! 
-- *2023.02*: &nbsp;🎉🎉 Our paper has been accepted by IEEE TON! 
-- *2023.01*: &nbsp;🎉🎉 Our paper has been accepted by IEEE ICC 2023! 
-- *2022.12*: &nbsp;🎉🎉 Our paper has been accepted by IEEE INFOCOM 2023! 
+
+<details>
+<summary><u>Expand</u></summary>
+<ul>
+<li> 2023.07: &nbsp;🎉🎉 We have won the "short-term study abroad program for doctoral students of Nanjing University" ($9600) ! </li>
+<li> 2023.07: &nbsp;🎉🎉 Our poster has been accepted by IEEE SECON 2023! </li>
+<li> 2023.05: &nbsp;🎉🎉 Our poster has been accepted by IWQOS 2023! </li>
+<li> 2023.04: &nbsp;🎉🎉 We receive a invitation from IWQOS poster 2023.</li>
+<li> 2023.04: &nbsp;🎉🎉 Our paper has been accepted by BigCom 2023! </li>
+<li> 2023.02: &nbsp;🎉🎉 Our paper has been accepted by IEEE TON! </li>
+<li> 2023.01: &nbsp;🎉🎉 Our paper has been accepted by IEEE ICC 2023! </li>
+<li> 2022.12: &nbsp;🎉🎉 Our paper has been accepted by IEEE INFOCOM 2023! </li>
+</ul>
+</details>
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
@@ -64,7 +70,7 @@ You can find my detailed [CV](/files/MingtaoJi-CV-En.pdf) attached.
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src="https://img.shields.io/badge/Computer%20Networks-CCF--B-green"><img src='files/CN2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src="https://img.shields.io/badge/Computer%20Networks-CCF--B-green"><img src='files/IWQOSPOSTER2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [INTaaS: Provisioning In-band Network Telemetry as a Service via Online Learning](https://www.sciencedirect.com/science/article/pii/S1389128624000434)
@@ -73,12 +79,15 @@ You can find my detailed [CV](/files/MingtaoJi-CV-En.pdf) attached.
 
 <!-- [**Project**](https://scholar.google.com) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We jointly complete the project. --> 
-[**Computer Networks**](https://www.sciencedirect.com/journal/computer-networks): 2024-01-22.
+Journal: [**Computer Networks**](https://www.sciencedirect.com/science/article/pii/S1389128624000434): 2024-01-22.\\
+Poster: \[invited\] [**IEEE/ACM IWQoS 2023**](https://ieeexplore.ieee.org/document/10188738): 2023-04.
 </div></div>
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src="https://img.shields.io/badge/IEEE%20ICPADS-CCF--C-green"><img src='files/ICPADS2023CPN.png' alt="sym" width="100%"></div></div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src="https://img.shields.io/badge/IEEE%20ICPADS-CCF--C-blue"><img src='files/ICPADS2023CPN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [When CPN Meets AI: Resource Provisioning for Inference Query Upon Computing Power Network](https://ieeexplore.ieee.org/document/10476048)
@@ -102,20 +111,10 @@ You can find my detailed [CV](/files/MingtaoJi-CV-En.pdf) attached.
 </div></div>
 
   
-<div class='paper-box'><div class='paper-box-image'><div><img src="https://img.shields.io/badge/IEEE%20ACM%20IWQoS%20Poster-CCF--B-green"><img src='files/IWQOSPOSTER2023.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Adaptive Provisioning In-band Network Telemetry at Computing Power Network \[invited\]](https://ieeexplore.ieee.org/document/10188738)
-
-**Mingtao Ji**, Chenwei Su, Yuting Yan, Zhuzhong Qian, Sheng Zhang, Yu Chen, Tuo Cao, Xiaohang Shi, Luis Vasquez, Baoliu Ye.
-
-[**IEEE/ACM IWQoS 2023**](https://iwqos2023.ieee-iwqos.org/): 2023-04.
-
-</div></div>
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src="https://img.shields.io/badge/IEEE%20ICC-CCF--C-green"><img src='files/ICC_BGD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src="https://img.shields.io/badge/IEEE%20ICC-CCF--C-blue"><img src='files/ICC_BGD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <!-- [INTView: Adaptive Planner for In-Band Network Telemetry without Detours](/files/WAITFORME.pdf) -->
@@ -133,42 +132,45 @@ You can find my detailed [CV](/files/MingtaoJi-CV-En.pdf) attached.
 
 
 <!-- https://www.shields.io/ -->
-<!-- - <img src="https://img.shields.io/badge/IEEE%20ICC-CCF--C-green"> [INTView: Adaptive Planner for In-Band Network Telemetry without Detours](/files/ICC2023.pdf), **Mingtao Ji**, Chenwei Su, Yuting Yan, Zhuzhong Qian, Yu Chen, Yibo Jin, Sheng Zhang, Baoliu Ye, IEEE ICC 2023: To Be published. -->
+<!-- - <img src="https://img.shields.io/badge/IEEE%20ICC-CCF--C-blue"> [INTView: Adaptive Planner for In-Band Network Telemetry without Detours](/files/ICC2023.pdf), **Mingtao Ji**, Chenwei Su, Yuting Yan, Zhuzhong Qian, Yu Chen, Yibo Jin, Sheng Zhang, Baoliu Ye, IEEE ICC 2023: To Be published. -->
+
+
+- <img src="https://img.shields.io/badge/IWQoS-CCF--B-green"> [Adaptive Provisioning In-band Network Telemetry at Computing Power Network \[invited\]](https://ieeexplore.ieee.org/document/10188738), **Mingtao Ji**, Chenwei Su, Yuting Yan, Zhuzhong Qian, Sheng Zhang, Yu Chen, Tuo Cao, Xiaohang Shi, Luis Vasquez, Baoliu Ye, IEEE IWQOS 2023. 
 
 
 - <img src="https://img.shields.io/badge/COMNET-CCF--B-green"> [Walking on Two Legs: Joint Service Placement and Computation Configuration for Provisioning Containerized Services at Edges](https://www.sciencedirect.com/science/article/pii/S1389128623005893), Tuo Cao, Qinhui Wang, Yuhan Zhang, Zhuzhong Qian, Yue Zeng, **Mingtao Ji**, Hesheng Sun, Baoliu Ye, Computer Networks 2023. 
 
 
-- <img src="https://img.shields.io/badge/IEEE%20ICPADS-CCF--C-green"> [Accelerating Federated Learning With Adaptive Extra Local Updates Upon Edge Networks](https://ieeexplore.ieee.org/document/10476136), Yitao Fan, **Mingtao Ji**, Zhuzhong Qian, IEEE ICPADS 2023. (19.44%, 196/1008)
+- <img src="https://img.shields.io/badge/IEEE%20ICPADS-CCF--C-blue"> [Accelerating Federated Learning With Adaptive Extra Local Updates Upon Edge Networks](https://ieeexplore.ieee.org/document/10476136), Yitao Fan, **Mingtao Ji**, Zhuzhong Qian, IEEE ICPADS 2023. (19.44%, 196/1008)
 
 
-- <img src="https://img.shields.io/badge/BigCom-EI-green"> [SAC: Dynamic Caching upon Sketch for In-Memory Big Data Analytics](https://ieeexplore.ieee.org/abstract/document/10415586), **Mingtao Ji**, Mingxian Zhou, Haodong Zou, Ming Tang, Zhuzhong Qian, Xiaoliang Wang, BigCom 2023. (<font color=red>1</font>/42/74,  <font color=red>Best Paper Award</font>)
+- <img src="https://img.shields.io/badge/BigCom-EI-blue"> [SAC: Dynamic Caching upon Sketch for In-Memory Big Data Analytics](https://ieeexplore.ieee.org/abstract/document/10415586), **Mingtao Ji**, Mingxian Zhou, Haodong Zou, Ming Tang, Zhuzhong Qian, Xiaoliang Wang, BigCom 2023. (<font color=red>1</font>/42/74,  <font color=red>Best Paper Award</font>)
 
-- <img src="https://img.shields.io/badge/IEEE%20TON-CCF--A-green"> [Scheduling In-Band Network Telemetry with Convergence-Preserving Federated Learning](https://ieeexplore.ieee.org/document/10070386), Yibo Jin, Lei Jiao, **Mingtao Ji**, Zhuzhong Qian, Sheng Zhang, Ning Chen, Sanglu Lu, IEEE/ACM TON 2023.
+- <img src="https://img.shields.io/badge/IEEE%20TON-CCF--A-red"> [Scheduling In-Band Network Telemetry with Convergence-Preserving Federated Learning](https://ieeexplore.ieee.org/document/10070386), Yibo Jin, Lei Jiao, **Mingtao Ji**, Zhuzhong Qian, Sheng Zhang, Ning Chen, Sanglu Lu, IEEE/ACM TON 2023.
 
 
-- <img src="https://img.shields.io/badge/IEEE%20INFOCOM-CCF--A-green"> [Crowd2: Multi-agent Bandit-based Dispatch for Video Analytics upon Crowdsourcing](https://ieeexplore.ieee.org/document/10228927), Yu Chen, Sheng Zhang, Yuting Yan, Zhuzhong Qian, Yibo Jin, Ning Chen, **Mingtao Ji**, Mingjun Xiao, IEEE INFOCOM 2023.
+- <img src="https://img.shields.io/badge/IEEE%20INFOCOM-CCF--A-red"> [Crowd2: Multi-agent Bandit-based Dispatch for Video Analytics upon Crowdsourcing](https://ieeexplore.ieee.org/document/10228927), Yu Chen, Sheng Zhang, Yuting Yan, Zhuzhong Qian, Yibo Jin, Ning Chen, **Mingtao Ji**, Mingjun Xiao, IEEE INFOCOM 2023.
 
-- <img src="https://img.shields.io/badge/IEEE%20ISPA-CCF--C-green"> [Workload-Aware Scheduling for Data Analytics upon Heterogeneous Storage](https://ieeexplore.ieee.org/document/9047284/), Zhuzhong Qian, Yuan Gao, **Mingtao Ji**, Hui Peng, Peng Chen, Yibo Jin, Sanglu Lu, IEEE ISPA 2019: 580-587.
+- <img src="https://img.shields.io/badge/IEEE%20ISPA-CCF--C-blue"> [Workload-Aware Scheduling for Data Analytics upon Heterogeneous Storage](https://ieeexplore.ieee.org/document/9047284/), Zhuzhong Qian, Yuan Gao, **Mingtao Ji**, Hui Peng, Peng Chen, Yibo Jin, Sanglu Lu, IEEE ISPA 2019: 580-587.
 
-- <img src="https://img.shields.io/badge/IEEE%20ISPA-CCF--C-green"> [Run Data Run! Re-Distributing Data via Piggybacking for Geo-Distributed Data Analytics](https://ieeexplore.ieee.org/document/9047380/), Yefei Li, Yibo Jin, Haiyang Chen, Wenchao Xi, **Mingtao Ji**, Sheng Zhang, Zhuzhong Qian, Sanglu Lu, IEEE ISPA 2019: 356-363.
+- <img src="https://img.shields.io/badge/IEEE%20ISPA-CCF--C-blue"> [Run Data Run! Re-Distributing Data via Piggybacking for Geo-Distributed Data Analytics](https://ieeexplore.ieee.org/document/9047380/), Yefei Li, Yibo Jin, Haiyang Chen, Wenchao Xi, **Mingtao Ji**, Sheng Zhang, Zhuzhong Qian, Sanglu Lu, IEEE ISPA 2019: 356-363.
 
 
 # 📝 Patents 
 
 
-- <img src="https://img.shields.io/badge/Patent%20-Chinese-green"> [一种面向云的带内计算部署方法、装置和系统](https://www.qcc.com/zhuanliDetail/5b246a0a38a9b120ddab7ec5b5315344.html), **吉明涛**(第一发明人), 钱柱中, 韦磊, 缪巍巍, 曾锃. 公开号: CN114124732A, 授权日: 2022/11/25.
+- <img src="https://img.shields.io/badge/Patent%20-Chinese-blue"> [一种面向云的带内计算部署方法、装置和系统](https://www.qcc.com/zhuanliDetail/5b246a0a38a9b120ddab7ec5b5315344.html), **吉明涛**(第一发明人), 钱柱中, 韦磊, 缪巍巍, 曾锃. 公开号: CN114124732A, 授权日: 2022/11/25.
 
-- <img src="https://img.shields.io/badge/Patent%20-Chinese-green"> [面向云数据中心智能化监测应用任务部署方法、装置和系统](https://www.qcc.com/zhuanliDetail/933e5d1cff5f459b7b6b328c84db9fbb.html), **吉明涛**(第一学生发明人)，钱柱中. 公开号: CN116032778A, 授权日: 2023/06/06.
+- <img src="https://img.shields.io/badge/Patent%20-Chinese-blue"> [面向云数据中心智能化监测应用任务部署方法、装置和系统](https://www.qcc.com/zhuanliDetail/933e5d1cff5f459b7b6b328c84db9fbb.html), **吉明涛**(第一学生发明人)，钱柱中. 公开号: CN116032778A, 授权日: 2023/06/06.
 
 
 <!-- Mingtao Ji, Jesus Omana Iglesias, Diego Lugones, Alessandra Sala, Volker Hilt, "A Method and System for Managing Workload Distribution in a Virtualized System", European Patent (No. 3291091), Filed 2016/09/01, Granted 2022/11/30. -->
 
 # 📝 EI （Corresponding Author）
 
-- <img src="https://img.shields.io/badge/IEEE-EI-green"> [A Delay-Aware Heartbeat Scheduling Mechanism for Cloud Datacenter](https://ieeexplore.ieee.org/abstract/document/9987900), Ming Tang, Ling Wang, Chunlei Xu, Haodong Zou, Chenwei Su, **Mingtao Ji**, IEEE ICDSCA 2022: 257-261. (EI: 20230313410129)
+- <img src="https://img.shields.io/badge/IEEE-EI-blue"> [A Delay-Aware Heartbeat Scheduling Mechanism for Cloud Datacenter](https://ieeexplore.ieee.org/abstract/document/9987900), Ming Tang, Ling Wang, Chunlei Xu, Haodong Zou, Chenwei Su, **Mingtao Ji**, IEEE ICDSCA 2022: 257-261. (EI: 20230313410129)
 
-- <img src="https://img.shields.io/badge/Journal%20of%20Physics-EI-green"> [An Energy Efficient Task Scheduling for a Cloud-edge System](https://www.semanticscholar.org/paper/An-Energy-Efficient-Task-Scheduling-for-a-System-Cheng-Yu/6cb99162732facc97b5f2c9170cf64e42b5960f8), Xinyun Cheng, Jinghang Yu, Mingming Zhang, F. Xia, Zichen Zhang, **Mingtao Ji**, Journal of Physics 2022. (EI: 20231113736569)
+- <img src="https://img.shields.io/badge/Journal%20of%20Physics-EI-blue"> [An Energy Efficient Task Scheduling for a Cloud-edge System](https://www.semanticscholar.org/paper/An-Energy-Efficient-Task-Scheduling-for-a-System-Cheng-Yu/6cb99162732facc97b5f2c9170cf64e42b5960f8), Xinyun Cheng, Jinghang Yu, Mingming Zhang, F. Xia, Zichen Zhang, **Mingtao Ji**, Journal of Physics 2022. (EI: 20231113736569)
 
 
 # 🎖 Honors and Awards
