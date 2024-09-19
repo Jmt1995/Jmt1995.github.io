@@ -16,8 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I obtained my B.E. degree from the College of Computer Science and Technology at Nanjing University of Aeronautics and Astronautics (NUAA) in 2018. 
-Currently, I am pursuing a Ph.D. under the supervision of Professor Zhuzhong Qian at Nanjing University. 
+<!-- I obtained my B.E. degree from the College of Computer Science and Technology at Nanjing University of Aeronautics and Astronautics (NUAA) in 2018.  -->
+<!-- I obtained my B.E. degree from the College of Computer Science and Technology at Nanjing University of Aeronautics and Astronautics (NUAA) in 2018.  -->
+Currently, I am pursuing a Ph.D. under the supervision of Professor [Zhuzhong Qian (钱柱中)](https://cs.nju.edu.cn/qzz) and [Baoliu Ye (叶保留)](https://cs.nju.edu.cn/yebl) at Nanjing University (南京大学). 
 To date, I have published or had more than 13 papers accepted in renowned journals and conferences, 
 including IEEE/ACM TON, Computer Networks, Journal of Computer Science and Technology, IEEE INFOCOM, IEEE ISPA, IEEE ICC, IEEE ICPADS, IEEE/ACM IWQOS poster, IEEE SECON poster, and BigCom. 
 My first-author paper was honored with the Best Paper Award at BigCom 2023. 
