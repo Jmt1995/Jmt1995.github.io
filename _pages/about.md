@@ -22,6 +22,7 @@ Currently, I am pursuing a Ph.D. under the supervision of Professor [Zhuzhong Qi
 To date, I have published or had more than 13 papers accepted in renowned journals and conferences, 
 including IEEE/ACM TON, Computer Networks, Journal of Computer Science and Technology, IEEE INFOCOM, IEEE ISPA, IEEE ICC, IEEE ICPADS, IEEE/ACM IWQOS poster, IEEE SECON poster, and BigCom. 
 My first-author paper was honored with the Best Paper Award at BigCom 2023. 
+In addition, I have conducted extensive research on various topics, advised by [Lei Jiao](https://ljiao.github.io/) at the University of Oregon.
 My research interests encompass CPN, In-band Network Telemetry, P4 switch, SDN, Federated Learning, Big Data Analytics, and Distributed Machine Learning. 
 You can find my detailed [CV](/files/MingtaoJi-CV-En.pdf) attached.
 
