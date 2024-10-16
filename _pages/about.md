@@ -126,6 +126,8 @@ Poster: \[invited\] [**IEEE/ACM IWQoS 2023**](https://ieeexplore.ieee.org/docume
 
 [**IEEE ICC 2023**](https://icc2023.ieee-icc.org/): 2023-01-17.
 
+[**Intel 2022 China Hackathon**](/files/P4_Hackathon.jpg): 2022-12-01.
+
 <!-- [**Project**](https://scholar.google.com) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We jointly complete the project. --> 
 </div></div>
