@@ -68,7 +68,7 @@ You can find my detailed [CV](/files/MingtaoJi-CV-En.pdf) attached.
 
 <!-- [**Project**](https://scholar.google.com) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We jointly complete the project. --> 
-[**IEEE SECON**](https://secon2024.ieee-secon.org/): Accepted, 2024-10-21.
+[**IEEE SECON 2024**](https://secon2024.ieee-secon.org/): Accepted, 2024-10-21.
 </div></div>
 
 
