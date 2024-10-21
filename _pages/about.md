@@ -34,6 +34,7 @@ You can find my detailed [CV](/files/MingtaoJi-CV-En.pdf) attached.
 
 
 # 🔥 News
+- *2024.10*: &nbsp;🎉🎉 Our paper has been accepted by IEEE SECON 2024. 
 - *2024.09*: &nbsp;🎉🎉 Our paper has been accepted by Journal of Computer Science and Technology. 
 - *2024.05*: &nbsp;🎉🎉 Our paper receives Minor Revision from  Journal of Computer Science and Technology. 
 - *2024.01*: &nbsp;🎉🎉 Our paper has been accepted by Computer Networks!
@@ -57,6 +58,20 @@ You can find my detailed [CV](/files/MingtaoJi-CV-En.pdf) attached.
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><img src="https://img.shields.io/badge/JCST-CCF--B-green"><img src='files/SECON2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Online Scheduling of Federated Learning with In-Network Aggregation and Flow Routing](https://secon2024.ieee-secon.org/)
+
+**Mingtao Ji**, Lei Jiao, Yitao Fan, Yang Chen, Zhuzhong Qian, Ji Qi, Gangyi Luo, Baoliu Ye
+
+<!-- [**Project**](https://scholar.google.com) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We jointly complete the project. --> 
+[**IEEE SECON**](https://secon2024.ieee-secon.org/): Accepted, 2024-10-21.
+</div></div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><img src="https://img.shields.io/badge/JCST-CCF--B-green"><img src='files/JCST2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
