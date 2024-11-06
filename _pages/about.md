@@ -19,7 +19,7 @@ redirect_from:
 <!-- I obtained my B.E. degree from the College of Computer Science and Technology at Nanjing University of Aeronautics and Astronautics (NUAA) in 2018.  -->
 <!-- I obtained my B.E. degree from the College of Computer Science and Technology at Nanjing University of Aeronautics and Astronautics (NUAA) in 2018.  -->
 Currently, I am pursuing a Ph.D. under the supervision of Professor [Zhuzhong Qian (钱柱中)](https://cs.nju.edu.cn/qzz) and [Baoliu Ye (叶保留)](https://cs.nju.edu.cn/yebl) at Nanjing University (南京大学). 
-To date, I have published or had more than 14 papers accepted in renowned journals and conferences, 
+To date, I have published or had more than 15 papers accepted in renowned journals and conferences, 
 including IEEE/ACM TON, Computer Networks, Journal of Computer Science and Technology, IEEE INFOCOM, IEEE SECON, IEEE ISPA, IEEE ICC, IEEE ICPADS, IEEE/ACM IWQOS poster, and BigCom. 
 My first-author paper was honored with the Best Paper Award at BigCom 2023. 
 In addition, I have conducted extensive research on various topics, advised by [Lei Jiao](https://ljiao.github.io/) at the University of Oregon.
@@ -34,6 +34,7 @@ You can find my detailed [CV](/files/MingtaoJi-CV-En.pdf) attached.
 
 
 # 🔥 News
+- *2024.11*: &nbsp;🎉🎉 Our paper has been accepted by Computer Networks!
 - *2024.10*: &nbsp;🎉🎉 Our paper has been accepted by IEEE SECON 2024. 
 - *2024.09*: &nbsp;🎉🎉 Our paper has been accepted by Journal of Computer Science and Technology. 
 - *2024.05*: &nbsp;🎉🎉 Our paper receives Minor Revision from  Journal of Computer Science and Technology. 
@@ -55,9 +56,22 @@ You can find my detailed [CV](/files/MingtaoJi-CV-En.pdf) attached.
 <li> 2022.12: &nbsp;🎉🎉 Our paper has been accepted by IEEE INFOCOM 2023! </li>
 </ul>
 </details>
-<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+<!-- - *2022.02*: &nbsp;🎉🎉 CN2024-CPN.png Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><img src="https://img.shields.io/badge/Computer%20Networks-CCF--B-green"><img src='files/ICPADS2023CPN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+[CPN Meets Learning: Online Scheduling for Inference Service in Computing Power Network](https://ieeexplore.ieee.org/document/10476048)
+
+**Mingtao Ji**, Ji Qi, Lei Jiao, Gangyi Luo, Hehan Zhao, Xin Li, Baoliu Ye, Zhuzhong Qian
+
+Journal: [**Computer Networks**](https://ieeexplore.ieee.org/document/10476048): 2024-11-05.\\
+Conference: [**IEEE ICPADS 2023**](https://ieeexplore.ieee.org/document/10476048): Acceptance Rate 19.44%, 196/1008, 2023-10-27.
+</div></div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><img src="https://img.shields.io/badge/IEEE%20SECON-CCF--B-green"><img src='files/SECON2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -104,15 +118,7 @@ Poster: \[invited\] [**IEEE/ACM IWQoS 2023**](https://ieeexplore.ieee.org/docume
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src="https://img.shields.io/badge/IEEE%20ICPADS-CCF--C-blue"><img src='files/ICPADS2023CPN.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[When CPN Meets AI: Resource Provisioning for Inference Query Upon Computing Power Network](https://ieeexplore.ieee.org/document/10476048)
-
-**Mingtao Ji**, Zhuzhong Qian, Baoliu Ye.
-
-[**IEEE ICPADS 2023**](https://ieee-cybermatics.org/2023/icpads/): Acceptance Rate 19.44%, 196/1008, 2023-10-27.
-</div></div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><img src="https://img.shields.io/badge/IEEE%20SECON%20Poster-CCF--B-green"><img src='files/SECONPOSTER2023.png' alt="sym" width="100%"></div></div>
