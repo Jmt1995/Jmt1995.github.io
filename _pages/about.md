@@ -64,11 +64,11 @@ You can find my detailed [CV](/files/MingtaoJi-CV-En.pdf) attached.
 <div class='paper-box-text' markdown="1">
 
 
-[CPN Meets Learning: Online Scheduling for Inference Service in Computing Power Network](https://ieeexplore.ieee.org/document/10476048)
+[CPN Meets Learning: Online Scheduling for Inference Service in Computing Power Network](https://www.sciencedirect.com/science/article/pii/S1389128624007357)
 
 **Mingtao Ji**, Ji Qi, Lei Jiao, Gangyi Luo, Hehan Zhao, Xin Li, Baoliu Ye, Zhuzhong Qian
 
-Journal: [**Computer Networks**](https://ieeexplore.ieee.org/document/10476048): 2024-11-05.\\
+Journal: [**Computer Networks**](https://www.sciencedirect.com/science/article/pii/S1389128624007357): 2024-11-05.\\
 Conference: [**IEEE ICPADS 2023**](https://ieeexplore.ieee.org/document/10476048): Acceptance Rate 19.44%, 196/1008, 2023-10-27.
 </div></div>
 
