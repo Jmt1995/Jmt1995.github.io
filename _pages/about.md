@@ -34,6 +34,7 @@ You can find my detailed [CV](/files/MingtaoJi-CV-En.pdf) attached.
 
 
 # 🔥 News
+- *2024.12*: &nbsp; Outstanding Graduate Student of Nanjing University.
 - *2024.11*: &nbsp;🎉🎉 Our paper has been accepted by Computer Networks!
 - *2024.10*: &nbsp;🎉🎉 Our paper has been accepted by IEEE SECON 2024. 
 - *2024.09*: &nbsp;🎉🎉 Our paper has been accepted by Journal of Computer Science and Technology. 
@@ -199,6 +200,8 @@ Poster: \[invited\] [**IEEE/ACM IWQoS 2023**](https://ieeexplore.ieee.org/docume
 
 
 # 🎖 Honors and Awards
+- 2024, Outstanding Graduate Student of Nanjing University
+- 2024, First Prize of Nanjing University Talent Scholarship
 - 2023, [Best Paper Award](/files/bigcom_bestpaper.pdf) in BigCom 2023
 - 2021, Excellent Graduate Cadres
 - 2021, Postgraduate Scholarship
