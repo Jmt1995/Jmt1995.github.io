@@ -19,7 +19,7 @@ redirect_from:
 <!-- I obtained my B.E. degree from the College of Computer Science and Technology at Nanjing University of Aeronautics and Astronautics (NUAA) in 2018.  -->
 <!-- I obtained my B.E. degree from the College of Computer Science and Technology at Nanjing University of Aeronautics and Astronautics (NUAA) in 2018.  -->
 Currently, I am pursuing a Ph.D. under the supervision of Professor [Zhuzhong Qian (钱柱中)](https://cs.nju.edu.cn/qzz) and [Baoliu Ye (叶保留)](https://cs.nju.edu.cn/yebl) at Nanjing University (南京大学). 
-To date, I have published or had more than 15 papers accepted in renowned journals and conferences, 
+To date, I have published or had more than 16 papers accepted in renowned journals and conferences, 
 including IEEE/ACM TON, Computer Networks, Journal of Computer Science and Technology, IEEE INFOCOM, IEEE SECON, IEEE ISPA, IEEE ICC, IEEE ICPADS, IEEE/ACM IWQOS poster, and BigCom. 
 My first-author paper was honored with the Best Paper Award at BigCom 2023. 
 In addition, I have conducted extensive research on various topics, advised by [Lei Jiao](https://ljiao.github.io/) at the University of Oregon.
@@ -34,6 +34,7 @@ You can find my detailed [CV](/files/MingtaoJi-CV-En.pdf) attached.
 
 
 # 🔥 News
+- *2023.12*: &nbsp;🎉🎉 Our paper has been accepted by Computer Networks, congratulations to Yunqi Sun!
 - *2024.12*: &nbsp; Outstanding Graduate Student of Nanjing University.
 - *2024.11*: &nbsp;🎉🎉 Our paper has been accepted by Computer Networks!
 - *2024.10*: &nbsp;🎉🎉 Our paper has been accepted by IEEE SECON 2024. 
@@ -161,10 +162,13 @@ Poster: \[invited\] [**IEEE/ACM IWQoS 2023**](https://ieeexplore.ieee.org/docume
 <!-- - <img src="https://img.shields.io/badge/IEEE%20ICC-CCF--C-blue"> [INTView: Adaptive Planner for In-Band Network Telemetry without Detours](/files/ICC2023.pdf), **Mingtao Ji**, Chenwei Su, Yuting Yan, Zhuzhong Qian, Yu Chen, Yibo Jin, Sheng Zhang, Baoliu Ye, IEEE ICC 2023: To Be published. -->
 
 
+- <img src="https://img.shields.io/badge/IWQoS-CCF--B-green"> [Towards Strong Continuous Consistency in Edge-Assisted VR-SGs: Delay-Differences Sensitive Online Task Redistribution](xxxxx), Yunqi Sun, Elsevier Computer Networks 2024. 
+
+
 - <img src="https://img.shields.io/badge/IWQoS-CCF--B-green"> [Adaptive Provisioning In-band Network Telemetry at Computing Power Network \[invited\]](https://ieeexplore.ieee.org/document/10188738), **Mingtao Ji**, Chenwei Su, Yuting Yan, Zhuzhong Qian, Sheng Zhang, Yu Chen, Tuo Cao, Xiaohang Shi, Luis Vasquez, Baoliu Ye, IEEE IWQOS 2023. 
 
 
-- <img src="https://img.shields.io/badge/COMNET-CCF--B-green"> [Walking on Two Legs: Joint Service Placement and Computation Configuration for Provisioning Containerized Services at Edges](https://www.sciencedirect.com/science/article/pii/S1389128623005893), Tuo Cao, Qinhui Wang, Yuhan Zhang, Zhuzhong Qian, Yue Zeng, **Mingtao Ji**, Hesheng Sun, Baoliu Ye, Computer Networks 2023. 
+- <img src="https://img.shields.io/badge/COMNET-CCF--B-green"> [Walking on Two Legs: Joint Service Placement and Computation Configuration for Provisioning Containerized Services at Edges](https://www.sciencedirect.com/science/article/pii/S1389128623005893), Tuo Cao, Qinhui Wang, Yuhan Zhang, Zhuzhong Qian, Yue Zeng, **Mingtao Ji**, Hesheng Sun, Baoliu Ye, Elsevier Computer Networks 2023. 
 
 
 - <img src="https://img.shields.io/badge/IEEE%20ICPADS-CCF--C-blue"> [Accelerating Federated Learning With Adaptive Extra Local Updates Upon Edge Networks](https://ieeexplore.ieee.org/document/10476136), Yitao Fan, **Mingtao Ji**, Zhuzhong Qian, IEEE ICPADS 2023. (19.44%, 196/1008)
