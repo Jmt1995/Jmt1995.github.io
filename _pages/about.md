@@ -24,7 +24,7 @@ including IEEE/ACM TON, Computer Networks, Journal of Computer Science and Techn
 My first-author paper was honored with the Best Paper Award at BigCom 2023. 
 In addition, I have conducted extensive research on various topics, advised by [Lei Jiao](https://ljiao.github.io/) at the University of Oregon.
 My research interests encompass CPN, In-band Network Telemetry, P4 switch, SDN, Federated Learning, Big Data Analytics, and Distributed Machine Learning. 
-You can find my detailed [CV](/files/MingtaoJi-CV-En.pdf) attached.
+You can find my detailed [[CV](/files/MingtaoJi-CV-En.pdf)] attached.
 
 
 
