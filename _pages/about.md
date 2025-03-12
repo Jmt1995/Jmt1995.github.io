@@ -19,8 +19,8 @@ redirect_from:
 <!-- I obtained my B.E. degree from the College of Computer Science and Technology at Nanjing University of Aeronautics and Astronautics (NUAA) in 2018.  -->
 <!-- I obtained my B.E. degree from the College of Computer Science and Technology at Nanjing University of Aeronautics and Astronautics (NUAA) in 2018.  -->
 Currently, I am pursuing a Ph.D. under the supervision of Professor [Zhuzhong Qian (钱柱中)](https://cs.nju.edu.cn/qzz) and [Baoliu Ye (叶保留)](https://cs.nju.edu.cn/yebl) at Nanjing University (南京大学). 
-To date, I have published or had more than 16 papers accepted in renowned journals and conferences, 
-including IEEE/ACM TON, Computer Networks, Journal of Computer Science and Technology, IEEE INFOCOM, IEEE SECON, IEEE ISPA, IEEE ICC, IEEE ICPADS, IEEE/ACM IWQOS poster, and BigCom. 
+To date, I have published or had more than 17 papers accepted in renowned journals and conferences, 
+including IEEE TMC, IEEE/ACM TON, Computer Networks, Journal of Computer Science and Technology, IEEE INFOCOM, IEEE SECON, IEEE ISPA, IEEE ICC, IEEE ICPADS, IEEE/ACM IWQOS poster, and BigCom. 
 My first-author paper was honored with the Best Paper Award at BigCom 2023. 
 In addition, I have conducted extensive research on various topics, advised by [Lei Jiao](https://ljiao.github.io/) at the University of Oregon.
 My research interests encompass CPN, In-band Network Telemetry, P4 switch, SDN, Federated Learning, Big Data Analytics, and Distributed Machine Learning. 
@@ -34,7 +34,8 @@ You can find my detailed [[CV](/files/MingtaoJi-CV-En.pdf)] attached.
 
 
 # 🔥 News
-- *2023.12*: &nbsp;🎉🎉 Our paper has been accepted by Computer Networks, congratulations to Yunqi Sun!
+- *2025.03*: &nbsp;🎉🎉 Our paper has been accepted by IEEE Transactions on Mobile Computing.
+- *2024.12*: &nbsp;🎉🎉 Our paper has been accepted by Computer Networks, congratulations to Yunqi Sun!
 - *2024.12*: &nbsp; Outstanding Graduate Student of Nanjing University.
 - *2024.11*: &nbsp;🎉🎉 Our paper has been accepted by Computer Networks!
 - *2024.10*: &nbsp;🎉🎉 Our paper has been accepted by IEEE SECON 2024. 
@@ -61,6 +62,26 @@ You can find my detailed [[CV](/files/MingtaoJi-CV-En.pdf)] attached.
 <!-- - *2022.02*: &nbsp;🎉🎉 CN2024-CPN.png Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
+
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src="https://img.shields.io/badge/IEEE%20TMC-CCF--A-red"><img src='files/TMC2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Edge AI Inference as a Service via Dynamic Resources from Repeated Auctions](/files/WAITFORME.pdf)
+
+**Mingtao Ji**, Hehan Zhao, Lei Jiao, Sheng Zhang, Xin Li, Zhuzhong Qian, Baoliu Ye.
+
+<!-- [**Project**](https://scholar.google.com) [Incentivizing Edge Inference with Accuracy Preserving via Online Randomized Auctions](https://ieeexplore.ieee.org/abstract/document/10287443)
+   <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We jointly complete the project. --> 
+Journal: [**IEEE Transactions on Mobile Computing**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755): 2025-03-12.\\
+Poster: [**IEEE SECON 2023**](https://ieeexplore.ieee.org/abstract/document/10287443): 2023-07.
+</div></div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><img src="https://img.shields.io/badge/Computer%20Networks-CCF--B-green"><img src='files/ICPADS2023CPN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -116,25 +137,6 @@ Journal: [**Computer Networks**](https://www.sciencedirect.com/science/article/p
 Poster: \[invited\] [**IEEE/ACM IWQoS 2023**](https://ieeexplore.ieee.org/document/10188738): 2023-04.
 </div></div>
 
-
-
-
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><img src="https://img.shields.io/badge/IEEE%20SECON%20Poster-CCF--B-green"><img src='files/SECONPOSTER2023.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Incentivizing Edge Inference with Accuracy Preserving via Online Randomized Auctions](https://ieeexplore.ieee.org/abstract/document/10287443)
-
-**Mingtao Ji**, Zhixin Zhang, Yuhan Zhang, Zhuzhong Qian, Tuo Cao, Baoliu Ye.
-
-<!-- [**Project**](https://scholar.google.com) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We jointly complete the project. --> 
-[**IEEE SECON 2023**](https://secon2023.ieee-secon.org/): 2023-07.
-</div></div>
-
   
 
 
@@ -162,7 +164,7 @@ Poster: \[invited\] [**IEEE/ACM IWQoS 2023**](https://ieeexplore.ieee.org/docume
 <!-- - <img src="https://img.shields.io/badge/IEEE%20ICC-CCF--C-blue"> [INTView: Adaptive Planner for In-Band Network Telemetry without Detours](/files/ICC2023.pdf), **Mingtao Ji**, Chenwei Su, Yuting Yan, Zhuzhong Qian, Yu Chen, Yibo Jin, Sheng Zhang, Baoliu Ye, IEEE ICC 2023: To Be published. -->
 
 
-- <img src="https://img.shields.io/badge/IWQoS-CCF--B-green"> [Towards Strong Continuous Consistency in Edge-Assisted VR-SGs: Delay-Differences Sensitive Online Task Redistribution](xxxxx), Yunqi Sun, Elsevier Computer Networks 2024. 
+- <img src="https://img.shields.io/badge/IWQoS-CCF--B-green"> [Towards Strong Continuous Consistency in Edge-Assisted VR-SGs: Delay-Differences Sensitive Online Task Redistribution](https://www.sciencedirect.com/science/article/pii/S1389128624008351), Yunqi Sun, Elsevier Computer Networks 2024. 
 
 
 - <img src="https://img.shields.io/badge/IWQoS-CCF--B-green"> [Adaptive Provisioning In-band Network Telemetry at Computing Power Network \[invited\]](https://ieeexplore.ieee.org/document/10188738), **Mingtao Ji**, Chenwei Su, Yuting Yan, Zhuzhong Qian, Sheng Zhang, Yu Chen, Tuo Cao, Xiaohang Shi, Luis Vasquez, Baoliu Ye, IEEE IWQOS 2023. 
@@ -214,8 +216,8 @@ Poster: \[invited\] [**IEEE/ACM IWQoS 2023**](https://ieeexplore.ieee.org/docume
 <!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2021.09 - now*, Nanjing University, Department of Computer Science and Technology. 
-- *2018.09 - 2021.06*, Nanjing University, Department of Computer Science and Technology. <img src="https://img.shields.io/badge/Score-89%2F100-orange">
+- *2021.09 - now*, Nanjing University, School of Computer Science. 
+- *2018.09 - 2021.06*, Nanjing University, School of Computer Science. <img src="https://img.shields.io/badge/Score-89%2F100-orange">
 - *2014.09 - 2018.06*, Nanjing University of Aeronautics and Astronautics. College of Computer Science and Technology. <img src="https://img.shields.io/badge/Rating-3%2F120-orange"> 
 
 <!-- # 💬 Invited Talks
