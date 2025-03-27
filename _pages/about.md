@@ -70,7 +70,7 @@ You can find my detailed [[CV](/files/MingtaoJi-CV-En.pdf)] attached.
 <div class='paper-box'><div class='paper-box-image'><div><img src="https://img.shields.io/badge/IEEE%20TMC-CCF--A-red"><img src='files/TMC2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Edge AI Inference as a Service via Dynamic Resources from Repeated Auctions](/files/WAITFORME.pdf)
+[Edge AI Inference as a Service via Dynamic Resources from Repeated Auctions](https://ieeexplore.ieee.org/document/10938918)
 
 **Mingtao Ji**, Hehan Zhao, Lei Jiao, Sheng Zhang, Xin Li, Zhuzhong Qian, Baoliu Ye.
 
