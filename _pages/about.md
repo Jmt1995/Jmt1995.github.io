@@ -99,7 +99,7 @@ Conference: [**IEEE ICPADS 2023**](https://ieeexplore.ieee.org/document/10476048
 <div class='paper-box'><div class='paper-box-image'><div><img src="https://img.shields.io/badge/IEEE%20SECON-CCF--B-green"><img src='files/SECON2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Online Scheduling of Federated Learning with In-Network Aggregation and Flow Routing](https://secon2024.ieee-secon.org/)
+[Online Scheduling of Federated Learning with In-Network Aggregation and Flow Routing](https://ieeexplore.ieee.org/document/10934850)
 
 **Mingtao Ji**, Lei Jiao, Yitao Fan, Yang Chen, Zhuzhong Qian, Ji Qi, Gangyi Luo, Baoliu Ye
 
